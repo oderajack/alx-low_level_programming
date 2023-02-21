@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * main - start
+ * print_alphabet - create alpahbet
  * Return: void
  */
 
 void print_alphabet(void)
 {
 	char c;
+
 	for (c = 'a'; c <= 'z'; c++)
 	{
 	_putchar(c);

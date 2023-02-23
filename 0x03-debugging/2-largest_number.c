@@ -2,9 +2,9 @@
 
 /**
  * largest_number - correctly prints out the largest of three numbers, no matter the case
- * @a: first int
- * @b: second int
- * @c: third int
+ * @a: first integer
+ * @b: second integer
+ * @c: third integer
  * Return: largest number
  */
 

@@ -20,6 +20,6 @@ int main(void)
 	maxf = number / x;
 	}
 	}
-	print("%ld\n", maxf);
+	printf("%ld\n", maxf);
 	return (0);
 }

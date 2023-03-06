@@ -27,7 +27,9 @@ unsigned int _strspn(char *s, char *accept)
 		}
 
 		if (check == 0)
+			return (n);
 	}
-	
-	return (0);
+	s++;
+
+	return (n);
 }

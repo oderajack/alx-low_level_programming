@@ -8,7 +8,6 @@ int check_prime(int n, int i);
  * @n: # to be checked
  * Return: int value
  */
-
 int is_prime_number(int n)
 {
 	return (check_prime(n, 1));
@@ -20,7 +19,6 @@ int is_prime_number(int n)
  * @i: iteration times
  * Return: 1 for prime or 0 composite
  */
-
 int check_prime(int n, int i)
 {
 	if (n <= 1)

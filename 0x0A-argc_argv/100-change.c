@@ -7,7 +7,6 @@
  * @argv: An array of pointers to arg
  * Return: if the # of arg is not exactly one - 1 ortherwise - 0
  */
-
 int main(int argc, char *argv[])
 {
 	int cents, coins = 0;
